@@ -22,8 +22,7 @@ public class Tester {
 
 
 
-
-
+    
     private static ArrayList<Driver> retriveDriverCallingMethod() {
         Travel travel = new Travel();
 
@@ -47,9 +46,6 @@ public class Tester {
 
 
 
-
-
-
     private static void retriveCountOfDriverCallingMethod() {
         Travel travel = new Travel();
 
@@ -69,6 +65,7 @@ public class Tester {
     }
 
 
+    
     private static void retrieveByDriverIdCallingMethod(){
         Travel travel = new Travel();
         
